@@ -1,6 +1,6 @@
 Flask
-gunicorn
-google-cloud-dialogflow
 psycopg2-binary
-twilio
 requests
+haversine
+gunicorn
+
